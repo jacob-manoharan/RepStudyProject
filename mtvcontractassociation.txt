@@ -1,3 +1,5 @@
 filename:mtvcontractassociation.txt
 source:mtv
 category:contractassociation
+ddl_create:yes
+ddl_insert:yes
