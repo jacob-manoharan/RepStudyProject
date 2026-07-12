@@ -1,3 +1,0 @@
-filename:mtvcontractassociation.txt
-source:mtv
-category:contractassociation

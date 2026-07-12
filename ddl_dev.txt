@@ -1,0 +1,3 @@
+create table emp(eno int, ename varchar(20);
+
+insert into emp(eno,ename) values(1, 'ename1');
